@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/dsych/lab_7#readme",
   "dependencies": {
-    "commander": "^2.9.0"
+    "commander": "^2.9.0",
+    "express": "^4.15.2",
+    "node-amd": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^3.18.0",
